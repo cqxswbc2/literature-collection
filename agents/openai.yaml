@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Collection"
+  short_description: "Search, screen, download and archive academic papers"
+  default_prompt: "Use $literature-collection to find, screen and download papers on my topic from the journals my school counts."

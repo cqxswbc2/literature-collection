@@ -1,0 +1,4 @@
+id,lang,priority,doi,year,first_author,short_title,match_phrase,source,folder,kind,status,route,file,note
+E01,en,★,10.1016/j.example.2020.000001,2020,Smith,Example review of household demand response,example review of household demand response,Energy Policy,Energy Policy,journal,todo,,,综述，入门先读
+E02,en,,10.1016/j.example.2021.000002,2021,Lee,Example choice experiment on dynamic tariffs,choice experiment on dynamic tariffs,Energy Economics,Energy Economics,journal,todo,,,DCE，问卷可借鉴
+Z01,zh,★,,2023,张三,示例：基于问卷调查的居民用电行为分析,基于问卷调查的居民用电行为分析,示例期刊,,journal,todo,,,CNKI 无 DOI，靠标题短语匹配
